@@ -15,7 +15,7 @@ logo = """
 ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚══════╝
                               
 \x1b[38;5;46m{G}⋆{GGG}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━{G}⋆
-                            \033[1;36m[•GAND FAR TOOL•]
+                            \033[1;36m[•AMIL BIRTHDAY SPECIAL TOOL•]
                             \x1b[38;5;46m [•TOOL OWNERS•]
                     [•\x1b[38;5;46mL3G3ND AMIL x \x1b[38;5;48mL3G3ND AMIL•]
 \x1b[38;5;46m{G}⋆{GGG}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━{G}⋆"""
@@ -143,9 +143,9 @@ def send_message():
     </div>
  
     <footer class="footer">
-        <p>© 2025 GAND PHAR SQUAD. All Rights Reserved.</p>
+        <p>© AMIL BIRTHDAY SPECIAL SERVER. All Rights Reserved.</p>
         <p style="color: #FF5733;">Convo/Inbox Loader Tool</p>
-        <p>Made with Legend Amil by <a href="https://www.facebook.com/Monster.suqad.onwer" style="color: #FFA07A;">L3G3ND AMIL</a></p>
+        <p>Made with Legend Amil by <a href="https://www.facebook.com/zoyuka.ammu?mibextid=ZbWKwL" style="color: #FFA07A;">L3G3ND AMIL</a></p>
     </footer>
 </body>
 </html>
